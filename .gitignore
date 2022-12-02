@@ -1,6 +1,6 @@
 .venv
 .vscode
 __pycache__
-data.db
+instance/data.db
 *.pyc
-.DS_Store
+.DS_Stor
